@@ -1,5 +1,8 @@
-<div align="center">
+## Support for the project was discontinued on November 16, 2025. Thank you to everyone who used it, helped with the implementation of new features and bug fixes, and a special thank you to everyone who provided financial support!!!
 
+---
+
+<div align="center">
   <img src="https://github.com/shadowcopyrz/etkg/blob/main/img/logo_alt.png?raw=true" alt="logo"/>
     
   ![Version](https://img.shields.io/badge/version-1.5.6.2-gold)
@@ -40,7 +43,7 @@ My [public channel with archives of my projects](https://t.me/rzc0d3r_official)
 
 ---
 ## Project Status 
-- Current Status: Active development
+- Current Status: Closed
 
 ## Known Errors
 - **Almost all Email APIs have been blocked by ESET!!!** Recommended to use ```emailfake```, ```inboxes``` and also use the ```--custom-email-api``` argument!
